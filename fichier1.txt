@@ -1,1 +1,6 @@
-Bonjour 
+<<<<<<< HEAD 
+bonjour
+=======
+Allo
+>>>>>>> a911392740add342e6a89e57a30e5896f2143939
+    
